@@ -38,3 +38,7 @@ it is on the edge of the City Palace, Jaipur, and ...
 Red and Pink Sandstone: The palace is made from red and pink sandstone, reflecting the signature color of Jaipur, known as the Pink City.
 Rajput and Mughal Influence: The architecture is a blend of Rajput and Mughal styles, featuring arches, domes, and delicate stonework
 
+
+timing for visit best -Morning (9:00 AM - 11:00 AM)
+November to February: These are the winter months when Jaipur experiences pleasant and mild temperatures, ranging between 10°C to 25°C (50°F to 77°F), perfect for exploring the city and its attractions.
+
