@@ -26,6 +26,7 @@ the Kachwahas shifted their capital to Jaipur during the time of Sawai Jai Singh
 
 *   
 Hawa Mahal
+![pexels-sbsoneji-3581369](https://github.com/user-attachments/assets/3dcaed23-e9d2-4547-b1fa-22e19e9f748a)
 
 
 ![download](https://github.com/user-attachments/assets/0b0fb6d4-4266-4ca3-9904-0ca817694439)
