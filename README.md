@@ -22,7 +22,7 @@ the Kachwahas shifted their capital to Jaipur during the time of Sawai Jai Singh
 *   Masala Chowk
 *   LMB (Laxmi Misthan Bhandar)
 
-*   hr
+*   <hr>
 
 *   
 Hawa Mahal
@@ -51,7 +51,8 @@ Rawat Misthan Bhandar
  Gopalji ka Rasta
  
 
- hr
+ *   <hr>
+
 
  
  Jantar Mantar 
@@ -67,7 +68,8 @@ Key Instruments at Jantar Mantar-
  timing in the best for visit 
  October-November: The weather starts to cool down, making it an ideal time for sightseeing.
 
- hr
+ *   <hr>
+
 
 
 City Palace of Jaipur
@@ -84,7 +86,7 @@ Laxmi Mishtan Bhandar (LMB): Popular for Rajasthani Thali, Dal Baati Churma, and
 Handi Restaurant: Known for its excellent Laal Maas and traditional Rajasthani Thali.
 Chokhi Dhani: A cultural village resort that offers an authentic Rajasthani Thali, including dishes like Dal Baati Churma, Gatte Ki Sabzi, and Ker Sangri in a traditional setting.
 
-hr
+*   <hr>
 
 
 Sheesh Mahal
@@ -109,7 +111,8 @@ Mawa Kachori
 
 
 
-hr
+*   <hr>
+
 
 
 Birla Mandir Temple.---
@@ -126,7 +129,8 @@ Idols and Interior: The idols of Laxmi and Narayan are carved from a single piec
 
 
 
-hr
+*   <hr>
+
 
 
 Jal Mahal. 
