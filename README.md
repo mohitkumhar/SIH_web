@@ -122,4 +122,22 @@ Stunning Carvings: The outer walls of the temple have intricately carved statues
 Idols and Interior: The idols of Laxmi and Narayan are carved from a single piece of marble, and the inside of the temple is adorned with delicate carvings and sculptures from Hindu mythology.
 
  The temple is a year-round destination, but visiting during the evening hours is particularly beautiful as the temple lights up and the white marble glows in the setting sun.
+ A traditional Rajasthani meal consisting of dal (spicy lentils), baati (hard wheat rolls), and churma (sweetened crushed baati). It's a quintessential Rajasthani dish that combines savory and sweet flavors.
+
+
+
+hr
+
+
+Jal Mahal. 
+
+Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace was originally constructed around 1699; the building and the lake around it were later renovated and enlarged in the early 18th century by Maharaja Jai Singh II of Amber.
+
+Architectural Style: The palace exhibits a blend of Rajput and Mughal architecture, featuring intricate decorations and a harmonious design that reflects the grandeur of the era.
+Structure: The palace is a five-story structure, with four floors submerged under the water of Man Sagar Lake, while the uppermost floor is visible.
+Materials: Constructed primarily of red sandstone, the palace’s elegant façade is adorned with beautiful arches, jharokhas (overhanging enclosed balcony), and chhatris (domed pavilions).
+Design Elements: The palace includes beautifully designed courtyards, water channels, and gardens. The intricate carvings and use of traditional Rajasthani architectural elements make it a masterpiece of craftsmanship.
+famous dish-
+Dal Baati Churma
+Pyaaz Kachori
 
