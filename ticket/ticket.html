@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald:200,400%7CLato:300,400,300italic,700%7CMontserrat:900">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="booking.css">
+    <link rel="stylesheet" href="ticket.css">
     <!-- Flatpickr CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 
@@ -49,16 +49,13 @@
                   <div class="col-sm-12">
 
                     <input class="form-input" id="to" name="date" type="text" placeholder="To">
-
-                    <!-- <label class="form-label-outside">To</label>
-                    <div class="form-wrap form-wrap-inline">
-                      <select class="form-input select-filter" data-placeholder="All" data-minimum-results-for-search="Infinity" name="city">
-                        <option value="1">Chicago</option>
-                        <option value="2">Madrid</option>
-                        <option value="3">Paris</option>
-                      </select>
-                    </div> -->
                   </div>
+
+                    <div class="col-sm-12">
+
+                      <input class="form-input" id="to" name="date" type="text" placeholder="Budget">
+                    </div>
+                  
 
                   <!-- Depart Date Section -->
                   <div class="col-sm-12 col-lg-6">
@@ -69,9 +66,29 @@
                       <label class="form-label" for="dateForm"></label>
                     </div>
                   </div>
-
                   <div class="col-sm-12 col-lg-6">
-                    <input class="form-input" id="stay" name="date" type="text" placeholder="Stay Duration">
+                    <!-- <label class="form-label-outside">Depart Date</label> -->
+                    <div class="form-wrap form-wrap-validation">
+                      <!-- Date Input with Calendar -->
+                      <input class="form-input" id="dateForm" name="date" type="text" placeholder="Arrival Date">
+                      <label class="form-label" for="dateForm"></label>
+                    </div>
+                  </div>
+                  <label class="form-label-outside">Select the kind of activities you want to do</label>
+                    <div class="form-wrap form-wrap-inline">
+                      <select class="form-input select-filter" data-placeholder="All" data-minimum-results-for-search="Infinity" name="city">
+                        <option value="0">Select the kind of activities you want to do</option>
+                        <option value="1">Kid Friendly</option>
+                        <option value="2">Museums</option>
+                        <option value="3">Shopping</option>
+                        <option value="4">Historical</option>
+                        <option value="5">Outdoor Adventures</option>
+                        <option value="6">Art & Cultural</option>
+                      </select>
+                    </div>
+
+                  <!-- <div class="col-sm-12 col-lg-6">
+                    <input class="form-input" id="stay" name="date" type="text" placeholder="Stay Duration"> -->
 
                     <!-- <div class="form-wrap form-wrap-validation">
                        Select 2-->
@@ -82,7 +99,29 @@
                         <option value="4">4 days</option>
                       </select>
                     </div>  -->
+                  <!-- </div> -->
+                  <!-- <div class="col-sm-12 col-lg-6"> -->
+                    <!-- <input class="form-input" id="stay" name="date" type="text" placeholder="Stay Duration"> -->
+
+                    <!--  <div class="form-wrap form-wrap-validation"> -->
+                       <!-- Select 2--> 
+                      <!-- <select class="form-input select-filter" data-placeholder="All" data-minimum-results-for-search="Infinity" name="city">
+                        <option value="1">No. of Rooms</option>
+                        <option value="2">1 Room</option>
+                        <option value="3">2 Rooms</option>
+                        <option value="4">3 Rooms</option>
+                      </select>
+                    </div> 
+                  </div> -->
+
+                  <div class="col-lg-6">
+                    <label class="form-label-outside">No. of Rooms</label>
+                    <div class="form-wrap form-wrap-modern">
+                      <input class="form-input input-append" id="form-element-stepper" type="number" min="0" max="300" value="2">
+                    </div>
                   </div>
+
+
                   <div class="col-lg-6">
                     <label class="form-label-outside">Adults</label>
                     <div class="form-wrap form-wrap-modern">
@@ -97,7 +136,7 @@
                   </div>
                 </div>
                 <div class="form-wrap form-button">
-                  <button class="button button-block button-secondary" type="submit">Search</button>
+                  <a href="hotel/hotel.html"><button  action="search.html" class="button button-block button-secondary" type="submit">Search</button></a>
                 </div>
               </form>
             </div>
