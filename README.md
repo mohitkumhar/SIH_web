@@ -66,3 +66,20 @@ Key Instruments at Jantar Mantar-
     
  timing in the best for visit 
  October-November: The weather starts to cool down, making it an ideal time for sightseeing.
+
+ hr
+
+
+City Palace of Jaipur
+
+
+ The City Palace in Jaipur is one of the most significant landmarks in the Pink City. It showcases the rich cultural and architectural heritage of Jaipur and Rajasthan, 
+ blending Mughal and Rajput styles. The palace complex is still home to the royal family of Jaipur and is partially open to the public as a museum.
+ The City Palace of Jaipur is a stunning example of Rajasthan’s royal heritage, offering a glimpse into the opulent lifestyle and cultural richness of the Rajput rulers.
+ It's a must-visit for history enthusiasts and those interested in architecture and art.
+
+ famous street food --
+ Rawat Mishtan Bhandar: Famous for Dal Baati Churma, Gatte Ki Sabzi, and Rajasthani Thali.
+Laxmi Mishtan Bhandar (LMB): Popular for Rajasthani Thali, Dal Baati Churma, and Laal Maas.
+Handi Restaurant: Known for its excellent Laal Maas and traditional Rajasthani Thali.
+Chokhi Dhani: A cultural village resort that offers an authentic Rajasthani Thali, including dishes like Dal Baati Churma, Gatte Ki Sabzi, and Ker Sangri in a traditional setting.
