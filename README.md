@@ -55,3 +55,14 @@ Rawat Misthan Bhandar
 
  
  Jantar Mantar 
+
+Jantar Mantar in Jaipur is one of the largest and best-preserved astronomical observatories in the world. It was built in the early 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur. The name "Jantar Mantar" is derived from the Sanskrit words "Yantra" (instruments) and "Mantra" (formulas or calculations), meaning "calculating instruments."
+Key Instruments at Jantar Mantar-
+ Samrat Yantra (The Supreme Instrument)
+ Rashivalaya Yantras
+  Jaiprakash Yantra
+   Chakra Yantra
+    Jantar Mantar hosts an evening light and sound show, explaining the history and significance of the instruments in an engaging way. 
+    
+ timing in the best for visit 
+ October-November: The weather starts to cool down, making it an ideal time for sightseeing.
