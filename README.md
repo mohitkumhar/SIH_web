@@ -43,3 +43,15 @@ Rajput and Mughal Influence: The architecture is a blend of Rajput and Mughal st
 timing for visit best -Morning (9:00 AM - 11:00 AM)
 November to February: These are the winter months when Jaipur experiences pleasant and mild temperatures, ranging between 10°C to 25°C (50°F to 77°F), perfect for exploring the city and its attractions.
 
+
+famous street food shop-
+Laxmi Misthan Bhandar 
+Rawat Misthan Bhandar
+ Gopalji ka Rasta
+ Gopalji ka Rasta
+ 
+
+ hr
+
+ 
+ Jantar Mantar 
