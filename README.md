@@ -83,3 +83,43 @@ City Palace of Jaipur
 Laxmi Mishtan Bhandar (LMB): Popular for Rajasthani Thali, Dal Baati Churma, and Laal Maas.
 Handi Restaurant: Known for its excellent Laal Maas and traditional Rajasthani Thali.
 Chokhi Dhani: A cultural village resort that offers an authentic Rajasthani Thali, including dishes like Dal Baati Churma, Gatte Ki Sabzi, and Ker Sangri in a traditional setting.
+
+hr
+
+
+Sheesh Mahal
+
+
+Sheesh Mahal, meaning "Palace of Mirrors," is one of the most beautiful and ornate structures in Rajasthan, located within Amber Fort in Jaipur.
+It is famous for its intricate mirror work, stunning architecture, and historical significance.
+
+Built By: Maharaja Jai Singh in the 16th century, during the reign of the Kachwaha dynasty.
+Purpose: It was designed as a luxurious hall where the royal family could host gatherings and enjoy cool evenings, especially during the hot summers.
+Sheesh Mahal is part of Amber Fort, one of the most famous forts in India. It is located in the Diwan-i-Khas (Hall of Private Audience), which was the private section of the palace meant for the royals.
+
+October to March (Winter Season): This is the most pleasant time to visit Jaipur and Sheesh Mahal. The weather is cool, ranging from 15°C to 25°C (59°F to 77°F), making it comfortable to explore the fort and enjoy the beauty of the mirror palace. This period avoids the extreme heat of summer and the humidity of the monsoon.
+
+Avoid April to June (Summer Season): Jaipur experiences scorching heat during the summer months, with temperatures reaching 40°C (104°F) or more, which can make sightseeing uncomfortable.
+
+best dish-
+. Dal Baati Churma
+Mawa Kachori
+ Pyaaz Kachori
+  Ghewar
+
+
+
+hr
+
+
+Birla Mandir Temple.---
+Birla Mandir in Jaipur, also known as the Laxmi Narayan Temple, is one of the prominent and beautifully crafted temples in India. It is a popular tourist attraction and holds significant religious importance.
+Situated at the base of Moti Dungri Hill in Jaipur, Rajasthan, it’s easy to access from various parts of the city.
+The temple is in a peaceful area, surrounded by greenery, offering a serene atmosphere for visitors.
+
+Modern and Traditional Blend: Although it’s a modern construction, the temple has a beautiful blend of traditional Hindu temple architecture with modern designs.
+Stunning Carvings: The outer walls of the temple have intricately carved statues of various mythological figures from Hinduism as well as great figures from other religions, such as Socrates, Buddha, and Confucius, symbolizing unity in diversity.
+Idols and Interior: The idols of Laxmi and Narayan are carved from a single piece of marble, and the inside of the temple is adorned with delicate carvings and sculptures from Hindu mythology.
+
+ The temple is a year-round destination, but visiting during the evening hours is particularly beautiful as the temple lights up and the white marble glows in the setting sun.
+
