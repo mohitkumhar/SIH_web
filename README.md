@@ -199,3 +199,26 @@ Entry fee: INR 10 for domestic, INR 50 for others
 
 <hr>
 
+Desert National Park – For An Encounter With The Wild:-
+
+One of the country’s largest animal habitats, the Desert National Park is home to unique flora and fauna, typical to desert habitat. Sprawled in a huge area, the park offers an insight into the typical desert vegetation, birds, and animals. You will be able to spot a number of desert animals, reptiles, and birds here in the early morning and during sunset. This is surely amongst the most beautiful places to visit in Jaisalmer in 2 days.
+
+Built By: Rawal Jaisal 
+Built In: 1156 AD
+Location: Near Sam Sand Dunes, Jaisalmer 345001, India
+Key attractions: Magnificent landscape, extinct lakes, and migratory birds, tiger spotting, photography
+Opening hours: 10 am to 5 pm
+Entry fee: INR 100
+
+<hr>
+
+ Amar Sagar Lake – For Blissful Views Of The Sunset:-
+
+Located at a distance of about 7 km on the western outskirts of the Jaisalmer city, the Amar Sagar Lake cum oasis is made up of a series of ponds and wells, as well as old Shiva Temple. Lying adjacent to and a part of the Amar Singh Palace, this lake and temples were built by Amar Singh, while the palace was established by Maharawal Akhai Singh in honor of Amar Singh, his predecessor. One can easily venture into the lake with the help of the stairs built near the palace for this very purpose. One can also spot a number of birds around this lake, which makes it a birdwatcher’s paradise.
+
+Built By: Maharawal Akhai Singh
+Built In: In 17th Century
+Location: 5 KM on Sam Road, Jaisalmer, India
+Key attractions: Shiva Temple, birds, Amar Palace
+Opening hours: 9 AM to 5 PM
+Entry fee: None
