@@ -203,11 +203,11 @@ Ayodhya:-
 Ayodhya is a city located in the northern Indian state of Uttar Pradesh. It is widely recognized for its religious significance, being the birthplace of Lord Rama, a central figure in Hinduism. Ayodhya is one of the seven most sacred cities in Hindu tradition, and it attracts pilgrims and tourists from around the world.
 
 sreet food :=
- Rabri
-  Jalebi
-  Lassi
-  Kachori
-  Kachori
+1. Rabri
+ 2. Jalebi
+ 3. Lassi
+ 4. Kachori
+ 5. Kachori
   
 Best Places to Visit in Ayodhya:
 
