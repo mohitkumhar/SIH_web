@@ -145,3 +145,24 @@ famous dish-
 Dal Baati Churma
 Pyaaz Kachori
 
+
+<hr>
+
+Kedarnath--
+Kedarnath is a holy town located in the Rudraprayag district of Uttarakhand, India, nestled in the majestic Garhwal Himalayan range. 
+It is renowned for the Kedarnath Temple, one of the twelve Jyotirlingas of Lord Shiva and a significant pilgrimage site for Hindus.
+
+Kedarnath has an unparallel beauty, surrounded by snowy peaks. It is one of the holiest pilgrims in North India and amongst the four Dhams.
+
+best time for visit-
+
+Weather:
+
+Ideal duration: 1 day
+
+Best Time: May to June, September to October 
+
+April to June is the best time to visit Kedarnath, offering pleasant weather and accessibility for pilgrims and tourists alike. During this period, the temperature ranges from 5°C to 20°C, the snow begins to melt and the famous Kedarnath Temple becomes accessible to devotees. May is a peak month and remains crowded. The doors of the revered Kedarnath Temple open in late April or early May, marking the commencement of the pilgrimage season. The pre-winter months from September to October is another good time to visit Kedarnath Temple. 
+
+
+
