@@ -1,7 +1,6 @@
   --jaipur--
 
   Amer
-
   
 ![download](https://github.com/user-attachments/assets/d7e1e100-3e7f-49d1-ac6c-355c0d6df8d0)
 ![download](https://github.com/user-attachments/assets/5ed4f8d6-9c47-4b10-8733-ead50761d03d)
@@ -53,8 +52,14 @@ Rawat Misthan Bhandar
 
  *   <hr>
 
-
+ Nahargarh biological park
  
+Nahargarh Biological Park is the place for wildlife lovers who visit Jaipur. Home to the majestic lions and tigers, you can also see 200 different species of birds and also 450 different species of wildlife. The park is located on the Jaipur-Delhi highway. Spread across an area that is about 7.2 sq. km it has forests, lakes and dams and wildlife.
+
+<hr>
+
+
+
  Jantar Mantar 
 
 Jantar Mantar in Jaipur is one of the largest and best-preserved astronomical observatories in the world. It was built in the early 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur. The name "Jantar Mantar" is derived from the Sanskrit words "Yantra" (instruments) and "Mantra" (formulas or calculations), meaning "calculating instruments."
