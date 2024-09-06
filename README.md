@@ -170,4 +170,32 @@ Best Time: May to June, September to October
 April to June is the best time to visit Kedarnath, offering pleasant weather and accessibility for pilgrims and tourists alike. During this period, the temperature ranges from 5°C to 20°C, the snow begins to melt and the famous Kedarnath Temple becomes accessible to devotees. May is a peak month and remains crowded. The doors of the revered Kedarnath Temple open in late April or early May, marking the commencement of the pilgrimage season. The pre-winter months from September to October is another good time to visit Kedarnath Temple. 
 
 
+<hr>
+jaisalmer:-
+
+Jaisalmer Fort – For The Rich Rajputana Splendor
+
+Jaisalmer Fort is also known as Golden Fort, this majestic fort is made up of yellow sandstone that reflects golden hues and hence gets the name. Raja Jaisal constructed this fort, which is a fine epitome of Rajasthani architectural style and a must visit name among the places to see in Jaisalmer. The best time to see the fort is at night when it’s all lit up and glowing! This is one of the best places to see in Jaisalmer.
+
+Built By: Rawal Jaisal
+Built In: 1156 AD
+Location: Fort Road, Near Gopa Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001
+Key attractions: 99 turrets of the fort, magnificent look of the fort during the night!
+Opening hours: Early morning till 5 pm
+Entry fee: INR 50 for domestic, INR 250 for others
+
+<hr>
+
+Patwon Ki Haveli – For Beautiful Carvings
+
+Patwon ki haveli was built by Guman Chand – one of the prominent traders of the city, this haveli is known for its intricately carved massive suites. The walls are beautifully decorated and the corridors are large, decked with art of the erstwhile era, making it one of the best places to visit in Jaisalmer for all kinds of travelers, especially art enthusiasts, school students, and history geeks.
+
+Built By: Guman Chand Patwa
+Built In: 1805
+Location: Patwon ki Haveliyan, Jaisalmer, Rajasthan 345001
+Key attractions: Crafts and arts of local artisans, architectural style and detailed inscriptions
+Opening hours: 8 am to 6 pm
+Entry fee: INR 10 for domestic, INR 50 for others
+
+<hr>
 
