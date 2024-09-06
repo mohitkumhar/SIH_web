@@ -1,7 +1,6 @@
   --jaipur--
 
   Amer
-![gadh_ganesh_mandir_3708786-m](https://github.com/user-attachments/assets/4cb062f2-b160-42dd-af75-6459f4275c8f)
 
   
 ![download](https://github.com/user-attachments/assets/d7e1e100-3e7f-49d1-ac6c-355c0d6df8d0)
