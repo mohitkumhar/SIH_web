@@ -195,3 +195,8 @@ this temple is believed to be the site where Lord Shiva married Goddess Parvati.
 
 Situated on the way to Kedarnath, Sonprayag is the confluence of the Mandakini and Basuki rivers. This place is considered holy, and pilgrims stop here to take a dip in the waters for purification before proceeding to Kedarnath.
 
+
+<hr>
+
+
+
