@@ -149,6 +149,8 @@ Pyaaz Kachori
 <hr>
 
 Kedarnath--
+
+
 Kedarnath is a holy town located in the Rudraprayag district of Uttarakhand, India, nestled in the majestic Garhwal Himalayan range. 
 It is renowned for the Kedarnath Temple, one of the twelve Jyotirlingas of Lord Shiva and a significant pilgrimage site for Hindus.
 
@@ -158,11 +160,38 @@ best time for visit-
 
 Weather:
 
-Ideal duration: 1 day
-
-Best Time: May to June, September to October 
-
 April to June is the best time to visit Kedarnath, offering pleasant weather and accessibility for pilgrims and tourists alike. During this period, the temperature ranges from 5°C to 20°C, the snow begins to melt and the famous Kedarnath Temple becomes accessible to devotees. May is a peak month and remains crowded. The doors of the revered Kedarnath Temple open in late April or early May, marking the commencement of the pilgrimage season. The pre-winter months from September to October is another good time to visit Kedarnath Temple. 
 
+kedarnath visit places
 
+ Kedarnath Temple
+ 
+The primary attraction, the Kedarnath Temple, is dedicated to Lord Shiva. It’s one of the 12 Jyotirlingas and is revered as part of the Char Dham pilgrimage.
+
+2. Bhairav Temple (Bhairavnath Mandir)
+   
+Located a short hike from Kedarnath Temple, Bhairav Temple is dedicated to Bhairav, a fierce manifestation of Lord Shiva. The temple offers beautiful panoramic views of the surrounding valleys and is believed to protect the Kedarnath region from natural calamities.
+
+4. Chorabari Lake (Gandhi Sarovar):-
+   Chorabari Lake, also known as Gandhi Sarovar, is a small glacial lake. It’s a peaceful and scenic spot with views of the Kedarnath peak and is ideal for short treks.
+   
+5 Vasuki Tal
+
+This high-altitude lake, is set amidst beautiful, rugged mountain terrain. The trek to Vasuki Tal offers breathtaking views of the surrounding snow-clad peaks and is a popular trail for adventurers.
+
+6. Shankaracharya Samadhi
+
+This is a revered site located near Kedarnath Temple. It is believed that Adi Shankaracharya, a philosopher who unified Hinduism, attained salvation here. The samadhi is a must-visit for those interested in spiritual history.
+
+7. Gaurikund
+
+The base camp for the trek to Kedarnath, Gaurikund is known for its hot springs and the Gauri Mata temple. It is a significant religious site, dedicated to Goddess Parvati (Gauri), and a starting point for pilgrims and trekkers alike.
+
+8. Triyuginarayan Temple:-
+
+this temple is believed to be the site where Lord Shiva married Goddess Parvati. It’s a popular pilgrimage destination, known for its eternal fire, which has been burning for centuries.
+
+9. Sonprayag :-
+
+Situated on the way to Kedarnath, Sonprayag is the confluence of the Mandakini and Basuki rivers. This place is considered holy, and pilgrims stop here to take a dip in the waters for purification before proceeding to Kedarnath.
 
