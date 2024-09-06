@@ -198,5 +198,42 @@ Situated on the way to Kedarnath, Sonprayag is the confluence of the Mandakini a
 
 <hr>
 
+Ayodhya:-
+
+Ayodhya is a city located in the northern Indian state of Uttar Pradesh. It is widely recognized for its religious significance, being the birthplace of Lord Rama, a central figure in Hinduism. Ayodhya is one of the seven most sacred cities in Hindu tradition, and it attracts pilgrims and tourists from around the world.
+Best Places to Visit in Ayodhya:
+
+Ram Janmabhoomi
+
+This is the most important and famous site in Ayodhya, believed to be the birthplace of Lord Rama. The Ram Temple is currently under construction after the historic Supreme Court verdict in 2019. Pilgrims visit this sacred spot for religious devotion and to witness the grand architecture of the temple.
+
+Hanuman Garhi
+
+This is one of the most revered temples in Ayodhya, dedicated to Lord Hanuman. It is a hilltop temple offering beautiful views of the city, and devotees believe that Lord Hanuman protects the city from evil.
+
+Kanak Bhawan
+
+A palace dedicated to Goddess Sita and Lord Rama, this temple is known for its beautiful architecture and serene atmosphere. It is believed that this palace was gifted to Sita by Queen Kaikeyi after her marriage to Rama.
+
+Treta Ke Thakur
+
+This temple marks the site where Lord Rama performed the Ashwamedha Yagna (horse sacrifice). The temple houses idols of Lord Rama, Sita, Lakshmana, Bharat, and Shatrughna, carved from black stone.
+
+Ramkot
+
+Ramkot is the main religious site in Ayodhya, located on an elevated platform. It is the focal point of celebration during the festival of Ram Navami, which marks Lord Rama’s birth.
+
+Nageshwarnath Temple
+
+Dedicated to Lord Shiva, this temple is believed to have been built by Kush, Lord Rama’s son. It is one of the oldest temples in the city and holds great religious significance, especially during the festival of Shivratri.
+
+Sita Ki Rasoi
+
+A small kitchen near Ram Janmabhoomi, this place is believed to be the kitchen of Goddess Sita. It is now a temple and exhibits utensils believed to be used by her.
+
+Guptar Ghat
+
+Located on the banks of the Sarayu River, Guptar Ghat is believed to be the site where Lord Rama took "jal samadhi" (entered the water) to end his earthly life. The ghat offers a peaceful spot for meditation and also serves as a bathing spot for pilgrims.
+
 
 
