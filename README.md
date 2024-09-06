@@ -201,6 +201,14 @@ Situated on the way to Kedarnath, Sonprayag is the confluence of the Mandakini a
 Ayodhya:-
 
 Ayodhya is a city located in the northern Indian state of Uttar Pradesh. It is widely recognized for its religious significance, being the birthplace of Lord Rama, a central figure in Hinduism. Ayodhya is one of the seven most sacred cities in Hindu tradition, and it attracts pilgrims and tourists from around the world.
+
+sreet food :=
+ Rabri
+  Jalebi
+  Lassi
+  Kachori
+  Kachori
+  
 Best Places to Visit in Ayodhya:
 
 Ram Janmabhoomi
@@ -234,6 +242,10 @@ A small kitchen near Ram Janmabhoomi, this place is believed to be the kitchen o
 Guptar Ghat
 
 Located on the banks of the Sarayu River, Guptar Ghat is believed to be the site where Lord Rama took "jal samadhi" (entered the water) to end his earthly life. The ghat offers a peaceful spot for meditation and also serves as a bathing spot for pilgrims.
+
+
+<hr>
+
 
 
 
