@@ -1,7 +1,6 @@
   --jaipur--
 
   Amer
-
   
 ![download](https://github.com/user-attachments/assets/d7e1e100-3e7f-49d1-ac6c-355c0d6df8d0)
 ![download](https://github.com/user-attachments/assets/5ed4f8d6-9c47-4b10-8733-ead50761d03d)
@@ -53,8 +52,14 @@ Rawat Misthan Bhandar
 
  *   <hr>
 
-
+ Nahargarh biological park
  
+Nahargarh Biological Park is the place for wildlife lovers who visit Jaipur. Home to the majestic lions and tigers, you can also see 200 different species of birds and also 450 different species of wildlife. The park is located on the Jaipur-Delhi highway. Spread across an area that is about 7.2 sq. km it has forests, lakes and dams and wildlife.
+
+<hr>
+
+
+
  Jantar Mantar 
 
 Jantar Mantar in Jaipur is one of the largest and best-preserved astronomical observatories in the world. It was built in the early 18th century by Maharaja Sawai Jai Singh II, the founder of Jaipur. The name "Jantar Mantar" is derived from the Sanskrit words "Yantra" (instruments) and "Mantra" (formulas or calculations), meaning "calculating instruments."
@@ -248,4 +253,55 @@ Located on the banks of the Sarayu River, Guptar Ghat is believed to be the site
 
 
 
+<hr>
+jaisalmer:-
 
+Jaisalmer Fort – For The Rich Rajputana Splendor
+
+Jaisalmer Fort is also known as Golden Fort, this majestic fort is made up of yellow sandstone that reflects golden hues and hence gets the name. Raja Jaisal constructed this fort, which is a fine epitome of Rajasthani architectural style and a must visit name among the places to see in Jaisalmer. The best time to see the fort is at night when it’s all lit up and glowing! This is one of the best places to see in Jaisalmer.
+
+Built By: Rawal Jaisal
+Built In: 1156 AD
+Location: Fort Road, Near Gopa Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001
+Key attractions: 99 turrets of the fort, magnificent look of the fort during the night!
+Opening hours: Early morning till 5 pm
+Entry fee: INR 50 for domestic, INR 250 for others
+
+<hr>
+
+Patwon Ki Haveli – For Beautiful Carvings
+
+Patwon ki haveli was built by Guman Chand – one of the prominent traders of the city, this haveli is known for its intricately carved massive suites. The walls are beautifully decorated and the corridors are large, decked with art of the erstwhile era, making it one of the best places to visit in Jaisalmer for all kinds of travelers, especially art enthusiasts, school students, and history geeks.
+
+Built By: Guman Chand Patwa
+Built In: 1805
+Location: Patwon ki Haveliyan, Jaisalmer, Rajasthan 345001
+Key attractions: Crafts and arts of local artisans, architectural style and detailed inscriptions
+Opening hours: 8 am to 6 pm
+Entry fee: INR 10 for domestic, INR 50 for others
+
+<hr>
+
+Desert National Park – For An Encounter With The Wild:-
+
+One of the country’s largest animal habitats, the Desert National Park is home to unique flora and fauna, typical to desert habitat. Sprawled in a huge area, the park offers an insight into the typical desert vegetation, birds, and animals. You will be able to spot a number of desert animals, reptiles, and birds here in the early morning and during sunset. This is surely amongst the most beautiful places to visit in Jaisalmer in 2 days.
+
+Built By: Rawal Jaisal 
+Built In: 1156 AD
+Location: Near Sam Sand Dunes, Jaisalmer 345001, India
+Key attractions: Magnificent landscape, extinct lakes, and migratory birds, tiger spotting, photography
+Opening hours: 10 am to 5 pm
+Entry fee: INR 100
+
+<hr>
+
+ Amar Sagar Lake – For Blissful Views Of The Sunset:-
+
+Located at a distance of about 7 km on the western outskirts of the Jaisalmer city, the Amar Sagar Lake cum oasis is made up of a series of ponds and wells, as well as old Shiva Temple. Lying adjacent to and a part of the Amar Singh Palace, this lake and temples were built by Amar Singh, while the palace was established by Maharawal Akhai Singh in honor of Amar Singh, his predecessor. One can easily venture into the lake with the help of the stairs built near the palace for this very purpose. One can also spot a number of birds around this lake, which makes it a birdwatcher’s paradise.
+
+Built By: Maharawal Akhai Singh
+Built In: In 17th Century
+Location: 5 KM on Sam Road, Jaisalmer, India
+Key attractions: Shiva Temple, birds, Amar Palace
+Opening hours: 9 AM to 5 PM
+Entry fee: None
