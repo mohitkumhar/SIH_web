@@ -2,21 +2,62 @@
 <html>
 <head>
     <title>Hotel Images and Restaurant Suggestions</title>
-    <link rel="stylesheet" href="hotel.css">
+    <!-- <link rel="stylesheet" href="hotel.css"> -->
 </head>
 <body>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hotel-container, .restaurant-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.hotel, .restaurant {
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+} */
+
+/* ... your existing CSS styles ... */
+
+.travel-options {
+    margin-top: 20px;
+}
+
+.travel-options label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+    </style>
     <h1>Hotels</h1>
     <div class="hotel-container">
         <div class="hotel">
-            <img src="hotel1.jpg" alt="Hotel 1">
+            <img src="photu/h1.jpg" alt="Hotel 1">  
             <h3>Hotel 1</h3>
         </div>
         <div class="hotel">
-            <img src="hotel2.jpg" alt="Hotel 2">
+            <img src="photu/h2.webp" alt="Hotel 2">
             <h3>Hotel 2</h3>
         </div>
         <div class="hotel">
-            <img src="hotel3.jpg" alt="Hotel 3">
+            <img src="photu/h3.jpg" alt="Hotel 3">
             <h3>Hotel 3</h3>
         </div>
     </div>
@@ -24,41 +65,33 @@
     <h1>Restaurant Suggestions</h1>
     <div class="restaurant-container">
         <div class="restaurant">
-            <img src="img/res1.jpg" alt="Restaurant 1">
+            <img src="photu/r1.avif" alt="Restaurant 1">
             <h3>Restaurant 1</h3>
         </div>
         <div class="restaurant">
-            <img src="img/res2.jpg" alt="Restaurant 2">
+            <img src="photu/r2.jpeg" alt="Restaurant 2">
             <h3>Restaurant 2</h3>
         </div>
         <div class="restaurant">
-            <img src="restaurant3.jpg" alt="Restaurant 3">
+            <img src="photu/r3.jpg" alt="Restaurant 3">
             <h3>Restaurant 3</h3>
         </div>
     </div>
     <h1>Travel Options</h1>
     <div class="restaurant-container">
       <div class="restaurant">
-          <img src="restaurant1.jpg" alt="Restaurant 1">
+          <img src="photu/train.avif" alt="Restaurant 1">
           <h3>Train</h3>
       </div>
       <div class="restaurant">
-          <img src="restaurant2.jpg" alt="Restaurant 2">
+          <img src="photu/bus.webp" alt="Restaurant 2">
           <h3>Bus</h3>
       </div>
       <div class="restaurant">
-          <img src="restaurant3.jpg" alt="Restaurant 3">
+          <img src="photu/aero.jpg" alt="Restaurant 3">
           <h3>Flight</h3>
       </div>
   </div>
-    <!-- <div class="travel-options">
-        <label for="mode-of-transport">Mode of Transport:</label>
-        <select id="mode-of-transport" name="mode-of-transport">
-            <option value="train">Train</option>
-            <option value="flight">Flight</option>
-            <option value="bus">Bus</option>
-        </select>
-    </div> -->
 </body>
 </html>
 
